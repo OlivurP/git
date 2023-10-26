@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: nt1.unoeuro.com
-        username: olivur@live.com
-        password: ${{ secrets.PASSWORD}}
+        username: ${{ olivur@live.com }}
+        password: 6nBnxpxi8qYtE
         server-dir: git/
         delete: true
