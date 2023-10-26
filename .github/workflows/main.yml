@@ -13,6 +13,6 @@ jobs:
       with:
         server: nt1.unoeuro.com
         username: olivur@live.com
-        password: 6nBnxpxi8qYtE
+        password: ${{ secrets.password}}
         server-dir: git/
         delete: true
