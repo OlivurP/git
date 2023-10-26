@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: nt14.unoeuro.com
-        username: olivur.dk
+        username: olivur@live.com
         password: 6nBnxpxi8qYtE
         server-dir: git/
         delete: true
