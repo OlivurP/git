@@ -13,6 +13,6 @@ jobs:
       with:
         server: nt14.unoeuro.com
         username: olivur.dk 
-        password: 6nBnxpxi8qYtE
+        password: 9zRBH62Fhfn5tpdeGb3y
         server-dir: git/
         delete: true
